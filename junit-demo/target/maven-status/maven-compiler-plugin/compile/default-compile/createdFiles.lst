@@ -1,0 +1,7 @@
+com\example\junitdemo\model\Project.class
+com\example\junitdemo\JunitDemoApplication.class
+com\example\junitdemo\model\Employee$EmployeeBuilder.class
+com\example\junitdemo\model\Employee.class
+com\example\junitdemo\model\Address$AddressBuilder.class
+com\example\junitdemo\model\Address.class
+com\example\junitdemo\model\Cts.class
